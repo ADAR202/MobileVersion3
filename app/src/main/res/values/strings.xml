@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobileVersion3</string>
+    <string name="title_activity_maps">Map</string>
+
+
+
+
+    <string-array name="Spinner2">
+
+        <item>north</item>
+        <item>east</item>
+        <item>south</item>
+        <item>west</item>
+        <item>deepest</item>
+        <item>shallowest</item>
+        <item>largest</item>
+        <item>smallest</item>
+    </string-array>
+</resources>
